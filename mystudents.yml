@@ -2,12 +2,21 @@
 - mystudents:
   - name: jeevan
     Phno: 9922409922
-    Address: knr
+    Address:
+    - street: 4
+    - door no: 7
+    - pincode: 505001
   
   - name: kritin
     Phno: 9922901020
-    Address: UK
+    Address:
+    - street: 09
+    - door no: 79
+    - pincode: 505001
 
   - name: shirisha
     Phno: 23248992
-    Address: UK
+    Address:
+    - street: 9
+    - door no: 8
+    - pincode: 505001
