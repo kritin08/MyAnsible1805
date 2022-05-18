@@ -1,0 +1,13 @@
+--- 
+- mystudents:
+  - name: jeevan
+    Phno: 9922409922
+    Address: knr
+  
+  - name: kritin
+    Phno: 9922901020
+    Address: UK
+
+  - name: shirisha
+    Phno: 23248992
+    Address: UK
